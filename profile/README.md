@@ -14,5 +14,3 @@ what Claude is working on in a live local dashboard.
 
 No account, and nothing leaves your machine. GoalT is made independently, not
 by Anthropic.
-
-Built by [ObliqueX](https://www.obliquex.com/).
